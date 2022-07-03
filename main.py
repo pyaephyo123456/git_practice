@@ -15,3 +15,5 @@ print("help")
 
 print("help twice")
 
+print("git fetch test local")
+
