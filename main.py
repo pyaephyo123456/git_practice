@@ -1,3 +1,4 @@
+
 print("main")
 
 print("git fdjg sadf")
@@ -8,4 +9,9 @@ print("I am termianl")
 
 print(" I am online2")
 
+
+print("help")
+
+
+print("help twice")
 
